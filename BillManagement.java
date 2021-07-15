@@ -20,13 +20,7 @@ public class BillManagement {
 
 	public static void main(String[] args) {
 		DataRepository.showItems();
-//		BillManagement.showItems();
-
 		OrderItems.orderedItems();
-
-//		String a = listFoodItems.get(4).getDish() ;
-//		System.out.println(a);
-
 	}
 
 }
